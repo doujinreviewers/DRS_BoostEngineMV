@@ -1,0 +1,12 @@
+/*:ja
+ * @target MV
+ * @plugindesc ゲームスピードを動的に変更します。
+ * @author 同人Reviewers
+ * 
+ * @help DRS_BoostEngineMV.js
+ * このプラグインにプラグインコマンドはありません。
+ * 
+ * プラグインが起動している間、ツクールMVのフォルダ内に「DRS_BoostEngineMV_MainWindow.html」というファイルが生成されます。
+ * このファイルはプラグインの画面を閉じると同時に削除されますが、万が一消えていなかった場合は手動で削除していただいても問題ありません。
+ * 
+ */
